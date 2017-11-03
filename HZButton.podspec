@@ -77,7 +77,7 @@ the HZButton is a Button that can creat a fast customer button for you! please u
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/AndyZZhz/HZButton.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/AndyZZhz/HZButton.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
