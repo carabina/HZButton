@@ -12,18 +12,18 @@ pod 'HZButton'
 
 Add pod 'HZButton' to your Podfile or pod 'HZButton', :head if you're feeling adventurous.
 
-##Usage
+## Usage
 (see sample Xcode project in /Demo)
 
 
-##Remind
+## Remind
 ARC
 
 iOS>=9.0
 
 iPhone \ iPad screen anyway
 
-##Hope
+## Hope
 
 -  If you find bug when used，Hope you can Issues me，Thank you or try to download the latest code of this framework to see the BUG has been fixed or not）
 - f you find the function is not enough when used，Hope you can Issues me，I very much to add more useful function to this framework ，Thank you !
