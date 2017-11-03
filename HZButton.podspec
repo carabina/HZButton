@@ -53,10 +53,7 @@ the HZButton is a Button that can creat a fast customer button for you! please u
   #  profile URL.
   #
 
-  # s.author             = { "张好志" => "zhihaozhang@anjuke.com" }
   s.author    = "Andyzzhz"
-  # s.authors            = { "张好志" => "zhihaozhang@anjuke.com" }
-  # s.social_media_url   = "http://twitter.com/张好志"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
